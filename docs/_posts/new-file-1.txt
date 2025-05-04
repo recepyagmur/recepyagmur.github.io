@@ -1,0 +1,5 @@
+title: "Blog Başlığı"
+description: "Felsefe, Psikoloji, Bilgisayar Bilimleri ve Projeler"
+baseurl: ""  # Boş bırakılabilir
+url: "https://recepyagmur.github.io"
+paginate: 5  # Sayfa başına 5 yazı
